@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<item>
+<id>0</id>
+<name>Star Wars: Episode I - The Phantom Menace</name>
+<genre>Science Fiction-Action-Fantasy</genre>
+<status>Completed</status>
+</item>
+<item>
+<id>1</id>
+<name>Star Wars: Episode II- Attack of the Clones</name>
+<genre>Science Fiction-Action-Fantasy</genre>
+<status>To Watch</status>
+</item>
+<item>
+<id>2</id>
+<name>Star Wars: Episode III - Revenge of the Sith</name>
+<genre>Science Fiction-Action-Fantasy</genre>
+<status>To Watch</status>
+</item>
+<item>
+<id>3</id>
+<name>Star Wars: Episode IV - A New Hope</name>
+<genre>Science Fiction-Action-Fantasy</genre>
+<status>To Watch</status>
+</item>
+<item>
+<id>4</id>
+<name>Inception</name>
+<genre>Action-Heist-Science Fiction</genre>
+<status>Completed</status>
+</item>
+<item>
+<id>5</id>
+<name>show5</name>
+<genre>genre</genre>
+<status>status</status>
+</item>
+<item>
+<id>6</id>
+<name>show6</name>
+<genre>genre1</genre>
+<status>status</status>
+</item>
+<item>
+<id>7</id>
+<name>show7</name>
+<genre>genre</genre>
+<status>status1</status>
+</item>
+<item>
+<id>8</id>
+<name>show8</name>
+<genre>genre</genre>
+<status>status1</status>
+</item>
+<item>
+<id>9</id>
+<name>show10</name>
+<genre>genre1</genre>
+<status>status</status>
+</item>
+<item>
+<id>10</id>
+<name>show11</name>
+<genre>genre1</genre>
+<status>status</status>
+</item>
+<item>
+<id>11</id>
+<name>show12</name>
+<genre>genre1</genre>
+<status>status1</status>
+</item>
+<item>
+<id>12</id>
+<name>show13</name>
+<genre>genre</genre>
+<status>status</status>
+</item>
+<item>
+<id>13</id>
+<name>show14</name>
+<genre>genre</genre>
+<status>status</status>
+</item>
+<item>
+<id>14</id>
+<name>show15</name>
+<genre>genre</genre>
+<status>status</status>
+</item>
+<item>
+<id>15</id>
+<name>show16</name>
+<genre>genre</genre>
+<status>status1</status>
+</item>
+<item>
+<id>16</id>
+<name>show17</name>
+<genre>genre1</genre>
+<status>status1</status>
+</item>
+<item>
+<id>17</id>
+<name>show18</name>
+<genre>genre</genre>
+<status>status</status>
+</item>
+<item>
+<id>18</id>
+<name>show19</name>
+<genre>action</genre>
+<status>status</status>
+</item>
+<item>
+<id>19</id>
+<name>show20</name>
+<genre>genre</genre>
+<status>status1</status>
+</item>
+</items>

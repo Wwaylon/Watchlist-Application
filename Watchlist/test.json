@@ -1,0 +1,38 @@
+{
+"items": [
+{
+"id": 0,
+"name": "Star Wars: Episode I - The Phantom Menace",
+"genre": "Science Fiction-Action-Fantasy"
+"status": "Completed"
+}
+,
+{
+"id": 1,
+"name": "Star Wars: Episode II- Attack of the Clones",
+"genre": "Science Fiction-Action-Fantasy"
+"status": "To Watch"
+}
+,
+{
+"id": 2,
+"name": "Star Wars: Episode III - Revenge of the Sith",
+"genre": "Science Fiction-Action-Fantasy"
+"status": "To Watch"
+}
+,
+{
+"id": 3,
+"name": "Star Wars: Episode IV - A New Hope",
+"genre": "Science Fiction-Action-Fantasy"
+"status": "To Watch"
+}
+,
+{
+"id": 4,
+"name": "Inception",
+"genre": "Action-Heist-Science Fiction"
+"status": "Completed"
+}
+]
+}
