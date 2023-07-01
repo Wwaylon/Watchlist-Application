@@ -3,12 +3,11 @@
 ![Watchlist](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/544930b1-1b3a-488f-9dd2-556d5a89481a)
 
 
-<b>Features</b><br>
-Sort/search the watchlist on different criteria/attributes<br>
-Add/delete/edit show entries to the watchlist <br>
-Add/delete/edit criteria/attributes to entries <br>
-Import/export the list as various file formats (csv, xml, etc)<br>
-
+<b>Features</b>
+<ul>Sort/search the watchlist on different criteria/attributes</ul>
+<ul>Add/delete/edit show entries to the watchlist</ul> 
+<ul>Add/delete/edit criteria/attributes to entries</ul> 
+<ul>Import/export the list as various file formats (csv, xml, etc)</ul>
 
 <b>Extra Documentation<b>
 ![UML Class Diagram](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/034e5eed-484c-49cc-b579-954b6111f707)
