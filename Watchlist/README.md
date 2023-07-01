@@ -1,15 +1,16 @@
 # Watchlist GUI Application
-Written in C++ and built using the WxWdigets Framework
+<b>Written in C++ and built using the WxWdigets Framework</b>
 ![Watchlist](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/544930b1-1b3a-488f-9dd2-556d5a89481a)
 
 
-Features
-Sort/search the watchlist on different criteria/attributes 
-Add/delete/edit show entries to the watchlist 
-Add/delete/edit criteria/attributes to entries 
-Import/export the list as various file formats (csv, xml, etc)
+<b>Features</b><br>
+Sort/search the watchlist on different criteria/attributes<br>
+Add/delete/edit show entries to the watchlist <br>
+Add/delete/edit criteria/attributes to entries <br>
+Import/export the list as various file formats (csv, xml, etc)<br>
 
-Extra Documentation
+
+<b>Extra Documentation<b>
 ![UML Class Diagram](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/034e5eed-484c-49cc-b579-954b6111f707)
 ![usecase](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/06b30638-9b14-41ad-9d26-e64a0405248d)
 ![momentos](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/51ddfc91-217a-4102-a141-fc4fbd9a42c3)
