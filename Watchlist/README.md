@@ -1,6 +1,7 @@
 # Watchlist GUI Application
 Written in C++ and built using the WxWdigets Framework
-![UML Class Diagram](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/58cc6464-3990-4fe5-84f5-4e648ed832d1)
+![Watchlist](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/544930b1-1b3a-488f-9dd2-556d5a89481a)
+
 
 #Features
 -Sort/search the watchlist on different criteria/attributes 
