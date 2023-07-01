@@ -4,10 +4,10 @@ Written in C++ and built using the WxWdigets Framework
 
 
 #Features
--Sort/search the watchlist on different criteria/attributes 
--Add/delete/edit show entries to the watchlist 
--Add/delete/edit criteria/attributes to entries 
--Import/export the list as various file formats (csv, xml, etc)
+Sort/search the watchlist on different criteria/attributes 
+Add/delete/edit show entries to the watchlist 
+Add/delete/edit criteria/attributes to entries 
+Import/export the list as various file formats (csv, xml, etc)
 
 #Extra Documentation
 ![UML Class Diagram](https://github.com/Wwaylon/Watchlist-Application/assets/102841024/034e5eed-484c-49cc-b579-954b6111f707)
